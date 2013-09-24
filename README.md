@@ -2,7 +2,9 @@ Joshua Walker
 ======
 
 (231) 613-4054
+
 jshwlkr@umich.edu
+
 http://www.linkedin.com/in/jshwlkr
 
 Education

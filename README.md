@@ -1,9 +1,9 @@
 Joshua Walker
 =============
 
-(231) 613-4054  
 jshwlkr@umich.edu  
-http://www.linkedin.com/in/jshwlkr  
+http://www.linkedin.com/in/jshwlkr
+@jshwlkr
 
 Education
 ---------
@@ -18,7 +18,7 @@ Experience
 
 **Q Ltd** -- Ann Arbor, MI  
 http://www.qltd.com/  
-Front-end Developer - 2013  
+Front-end Developer - 2013-2014 
 
 **Alumni Association of the University of Michigan** -- Ann Arbor, MI  
 http://alumni.umich.edu/     

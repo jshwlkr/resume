@@ -2,8 +2,9 @@ Joshua Walker
 =============
 
 jshwlkr@umich.edu  
-http://www.linkedin.com/in/jshwlkr
-@jshwlkr
+http://www.linkedin.com/in/jshwlkr  
+@jshwlkr  
+Currently available for hire.
 
 Education
 ---------
